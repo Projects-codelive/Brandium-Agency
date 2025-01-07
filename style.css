@@ -178,7 +178,7 @@ body {
 #page1 {
     height: 150vh;
     width: 100%;
-    background-image: url("https://www.brandium.nl/wp-content/uploads/2023/09/bran-hero1-scaled.jpg");
+    background-image: url("./Fonts-videos/bran-hero1.jpg");
     background-position: 0% 35%;
     background-size: cover;
     position: relative;
